@@ -19,7 +19,40 @@ This program needs to securely take data, store the data, and accurately display
 ### 2.5 Alternatives and Competition
 Right now competitors would also need to work with the NICU to build this tool. We know of at  least one other group also attempting to solve this problem. We believe the ease of use of our product will, in the end, put us ahead of them.
 ## Section 3: Stakeholders
+|   |   |
+|---|---|
+|Name|Description|
+|Requirements Manager|This stakeholder works with nurse and staff in NICU to translate their needs into requirements|
+|Software Developer|This stakeholder design and develop the software that meets the requirements|
+
 ## Section 4: Product Overview
+#### 4.1 Product Perspective
+
+
+
+#### 4.2 Product Position Statement
+
+
+This product is made for staff in NICU to help them know how their quality improvement projects are progressing. The Asklepios is a web app that helps the NICU nurses to improve their quality by comparing it to other NICU. Unlike the product, the other group is creating. Our product will be the best of all.  
+
+#### 4.3 Summary of Capabilities
+
+|   |   |
+|---|---|
+|Feature|Benefit|
+|produce a graph|This feature will make the data easier to understand|
+|Data Entry Form|This feature will let the user enter the data and added into our database|
+|Auto Updating|This feature will update the data without you refresh the web page|
+
+#### 4.4 Assumptions and Dependencies
+
+* it assumes that the user has internet access.
+* it assumes that the user can read graph and chart
+
+
+#### 4.5 Cost and Pricing
+There is no cost for using this product. Our main goal is to improve the quality of all NICU.
+
 ## Section 5: Product Features
 ### 5.1 - Graphs & Charts at a glance: Our product will feature quite a few graphs and charts so that NICU nurses and staff may view information about the current status of neonatal patients at a glance. We may expand this to be customizable, so that different staff may choose different preferences on which information they would like to view
 ### 5.2 - Data Entry Form: Our product will feature a separate webpage so that staff may enter data in to the program to be viewed. The information gathered may vary depending on what kind of data is being entered. 
