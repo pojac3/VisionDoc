@@ -1,6 +1,23 @@
 # Vision Document for Team Asklepios
 ## Section 1: Introduction
-## Section 2: User description
+### 1.1 Purpose
+We strive to put together a useable and aesthetically pleasing system that allows the NICU to input and store data and see that data at a glance.
+### 1.2 Solution Overview
+Using Google Cloud Platform, we will put together a web app that allows the user to input data and store it in a data base. We will then have a separate webpage that will display the information in an easy to digest fashion.
+### 1.3 References
+No References are needed.
+
+## Section 2: User Description
+### 2.1 User/Market Demographics
+This product is designed specifically for the NICU at OU Medical. Dr. Ernst made it sound like they don't currently have a good program for this but there are other programs out there that would accomplish this. That being said, our product will be tailored specifically to our clients so ours will have an advantage.
+### 2.2 User Personas
+Our main goal is to ensure our program is easy to use. It will be primarily used by people without a background in tech and as such should be as user friendly as possible. With this in mind, we need to ensure that our program accurately stores and displays the information the user puts in. Ideally, this should increase efficiency in the NICU and make it easier to find necessary information.
+### 2.3 User Enviornment
+This program will ideally allow multiple users to access it at once. Normally, inputting the data should take no more than a few minutes and the data should be able to be digested in under a minute. This would need to be a secure server if implemented in the workplace as HIPAA protected data would be stored on the server. 
+### 2.4 Key User Needs
+This program needs to securely take data, store the data, and accurately display the data. Right now they need to manually look up each patient. Our solution would allow them to see any patient they need at a glance.
+### 2.5 Alternatives and Competition
+Right now competitors would also need to work with the NICU to build this tool. We know of at  least one other group also attempting to solve this problem. We believe the ease of use of our product will, in the end, put us ahead of them.
 ## Section 3: Stakeholders
 ## Section 4: Product Overview
 ## Section 5: Product Features
